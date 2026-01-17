@@ -1,8 +1,8 @@
-# User-Agent Generator
+# User-Agent
 
 随机 User-Agent 生成器 API 服务，支持 Chrome Windows/Android 和 Safari iPhone/Mac。
 
-生成逻辑参考 [random-user-agent](https://github.com/tarampampam/random-user-agent)。
+生成逻辑来自 [random-user-agent](https://github.com/tarampampam/random-user-agent)。
 
 ## 快速开始
 
@@ -73,3 +73,4 @@ environment:
 ```
 
 访问路径变为 `/ua` 或 `/ua/`。
+
